@@ -44,10 +44,57 @@ Students will also complete a project analysing a play chosen from a short list 
 
 Directions for the final presentation and paper (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/finalpaper))
 
-| PLAYS | Instructor's critiques of the class's overall presentation on the play | Instructor's specific comments to individual students | Student final paper |
-| --- | --- | --- | --- |
-| Democracy | General comments on the presentations ([PDF]({{< baseurl >}}/resources/democracy_gen_cm)) | Comments on Susan Wilson's presentation ([PDF]({{< baseurl >}}/resources/democracy_sus_cm)) | Final paper by Susan Wilson ([PDF]({{< baseurl >}}/resources/stdnt_dem_finppr)) (Courtesy of Susan Wilson. Used with permission.) |
-| The Piano Lesson | General comments on the presentations ([PDF]({{< baseurl >}}/resources/piano_les_gen_cm)) | Comments on Hui Ying Wen's presentation ([PDF]({{< baseurl >}}/resources/pianoles_hui_com)) | Final paper by Hui Ying Wen (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/pianoles_std_ppr)) (Courtesy of Hui Ying Wen. Used with permission.) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PLAYS
+{{< thclose >}}
+{{< thopen >}}
+Instructor's critiques of the class's overall presentation on the play
+{{< thclose >}}
+{{< thopen >}}
+Instructor's specific comments to individual students
+{{< thclose >}}
+{{< thopen >}}
+Student final paper
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Democracy
+{{< tdclose >}}
+{{< tdopen >}}
+General comments on the presentations ([PDF]({{< baseurl >}}/resources/democracy_gen_cm))
+{{< tdclose >}}
+{{< tdopen >}}
+Comments on Susan Wilson's presentation ([PDF]({{< baseurl >}}/resources/democracy_sus_cm))
+{{< tdclose >}}
+{{< tdopen >}}
+Final paper by Susan Wilson ([PDF]({{< baseurl >}}/resources/stdnt_dem_finppr)) (Courtesy of Susan Wilson. Used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+The Piano Lesson
+{{< tdclose >}}
+{{< tdopen >}}
+General comments on the presentations ([PDF]({{< baseurl >}}/resources/piano_les_gen_cm))
+{{< tdclose >}}
+{{< tdopen >}}
+Comments on Hui Ying Wen's presentation ([PDF]({{< baseurl >}}/resources/pianoles_hui_com))
+{{< tdclose >}}
+{{< tdopen >}}
+Final paper by Hui Ying Wen (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/pianoles_std_ppr)) (Courtesy of Hui Ying Wen. Used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Comprehensive Summary Paper
 ---------------------------
